@@ -10,13 +10,13 @@ const Container: React.FC<ContainerProps> = ({ children }) => {
   return (
     <div
       className="
-  max-w-7xl
-    mx-auto
-    xl:px-20
-    md:px-8
-    sm:px-4
-    px-4
-  "
+              max-w-full
+              mx-auto
+              xl:px-20
+              md:px-8
+              sm:px-4
+              px-4
+                   "
     >
       {children}
     </div>
