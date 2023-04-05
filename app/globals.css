@@ -14,3 +14,14 @@ body,
 .leaflet-top {
   z-index: 0 !important;
 }
+
+.rdrMonth {
+  width: 100%;
+}
+
+.rdrMonthAndYearWrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 1rem;
+}
